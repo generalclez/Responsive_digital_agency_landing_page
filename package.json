@@ -1,7 +1,7 @@
 {
   "name": "digital_agency_website",
   "version": "0.1.0",
-  "homepage": "https://generalclez.github.io/digitalagencywebsite",
+  "homepage": "https://generalclez.github.io/digital_agency_website",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
